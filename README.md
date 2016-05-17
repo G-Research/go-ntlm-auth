@@ -1,8 +1,7 @@
 # go-ntlm-auth
 
 This is an implementation of NTLM for Go that was implemented using Windows SSPI (Security Support Provider Interface).
-It differs from other implemenations of NTLM as it uses the default credentials of the account that the application is running with,  
-meaning the username and password does not have to be provided in plain text. 
+It differs from other implemenations of NTLM as it uses the default credentials of the account that the application is running with, meaning the username and password does not have to be provided in plain text. 
 
 ## Usage Notes:
 This is currently only implemented for Windows. 
