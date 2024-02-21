@@ -1,3 +1,7 @@
+# Status: Archived
+
+![status: inactive](https://img.shields.io/badge/status-inactive-red.svg)
+
 # go-ntlm-auth
 
 This is an implementation of NTLM for Go that was implemented using Windows SSPI (Security Support Provider Interface).
